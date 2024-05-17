@@ -1,0 +1,100 @@
+.automatedIncentivizedFeature {
+  align-self: stretch;
+  height: 80px;
+  position: relative;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 2;
+}
+.featureContent {
+  width: 408px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) var(--padding-19xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: justify;
+}
+.quizTemplatesDedicated {
+  align-self: stretch;
+  height: 120px;
+  position: relative;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 2;
+}
+.featureContent1 {
+  width: 372px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.intuitiveDesignTailored {
+  height: 160px;
+  width: 458px;
+  position: relative;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.desktopInner,
+.featureContentParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.featureContentParent {
+  width: 1498px;
+  justify-content: space-between;
+  debug_commit: 1de1738;
+  gap: var(--gap-xl);
+}
+.desktopInner {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-39xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--white);
+  font-family: var(--font-montserrat);
+}
+@media screen and (max-width: 1400px) {
+  .featureContentParent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .desktopInner {
+    padding-left: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .automatedIncentivizedFeature,
+  .intuitiveDesignTailored,
+  .quizTemplatesDedicated {
+    font-size: var(--font-size-10xl);
+    line-height: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .automatedIncentivizedFeature,
+  .intuitiveDesignTailored,
+  .quizTemplatesDedicated {
+    font-size: var(--font-size-3xl);
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,960 @@
+.icon {
+  position: absolute;
+  top: 2202.1px;
+  left: calc(50% - 881.8px);
+  width: 4281.4px;
+  height: 4128.4px;
+  object-fit: contain;
+  mix-blend-mode: color-dodge;
+  z-index: 1;
+}
+.shape,
+.v617Bb02Technology1Icon {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.v617Bb02Technology1Icon {
+  top: -2337px;
+  height: 1080px;
+  object-fit: cover;
+  mix-blend-mode: soft-light;
+}
+.shape {
+  top: -2365px;
+  background-color: rgba(6, 32, 13, 0.38);
+  height: 9999px;
+  z-index: 1;
+}
+.connectEngageEarn,
+.conquerQuizzesExpand {
+  position: absolute;
+  font-family: var(--font-montserrat);
+  text-align: left;
+  z-index: 2;
+}
+.connectEngageEarn {
+  top: -2270px;
+  left: calc(50% - 771px);
+  font-size: 250px;
+  line-height: 220px;
+  font-weight: 700;
+  background: linear-gradient(180deg, #e3f5e8, #95d7a8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 1136px;
+}
+.conquerQuizzesExpand {
+  top: -1573px;
+  left: calc(50% - 762px);
+  font-size: var(--font-size-29xl);
+  line-height: 70px;
+  font-weight: 500;
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  width: 1076px;
+}
+.divider {
+  position: absolute;
+  top: 2207px;
+  left: 80px;
+  border-top: 3px solid #03350b;
+  box-sizing: border-box;
+  width: 1571px;
+  height: 3px;
+  z-index: 2;
+}
+.contentChild,
+.empty {
+  align-self: stretch;
+  position: relative;
+}
+.contentChild {
+  flex: 1;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #080 11.21%,
+    #28ff15 57.7%,
+    #82e404 70.49%,
+    #187318
+  );
+  z-index: 3;
+}
+.empty {
+  line-height: 100px;
+  z-index: 4;
+}
+.content,
+.subtraction {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.subtraction {
+  width: 21px;
+  flex-direction: column;
+  padding: 4px 0 0;
+  margin-left: -61px;
+}
+.content {
+  position: absolute;
+  top: 2151px;
+  left: 267px;
+  width: 104px;
+  height: 104px;
+  flex-direction: row;
+  padding: 0 var(--padding-21xl) 0 0;
+  font-size: var(--font-size-33xl);
+}
+.contentItem {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #080 11.21%,
+    #28ff15 57.7%,
+    #82e404 70.49%,
+    #187318
+  );
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.b,
+.content1,
+.contentItem {
+  position: absolute;
+}
+.b {
+  top: 3px;
+  left: 37px;
+  line-height: 81px;
+  display: inline-block;
+  width: 18px;
+  height: 81px;
+  z-index: 4;
+}
+.content1 {
+  top: 2151px;
+  left: 812px;
+  width: 104px;
+  height: 104px;
+  font-size: var(--font-size-33xl);
+}
+.contentInner {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #080 11.21%,
+    #28ff15 57.7%,
+    #82e404 70.49%,
+    #187318
+  );
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.b1,
+.content2,
+.contentInner {
+  position: absolute;
+}
+.b1 {
+  top: 4px;
+  left: 37px;
+  line-height: 81px;
+  display: inline-block;
+  width: 18px;
+  height: 81px;
+  z-index: 4;
+}
+.content2 {
+  top: 2151px;
+  left: 1357px;
+  width: 104px;
+  height: 104px;
+  font-size: var(--font-size-33xl);
+}
+.about,
+.incentivisedQuizDapp,
+.transformingCommunityEngagem {
+  position: absolute;
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  z-index: 2;
+}
+.about {
+  top: -900px;
+  left: calc(50% - 648px);
+  font-size: var(--font-size-381xl);
+  line-height: 150px;
+  color: var(--color-forestgreen);
+  text-align: center;
+  width: 1351px;
+  height: 150px;
+}
+.incentivisedQuizDapp,
+.transformingCommunityEngagem {
+  top: -558px;
+  left: calc(50% - 644px);
+  font-size: var(--font-size-71xl);
+  line-height: 100px;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  width: 1288px;
+}
+.transformingCommunityEngagem {
+  /* top: 1260px; */
+  left: calc(50% - 710px);
+  width: 1420px;
+}
+.aWeb3Educational,
+.blankLine,
+.rewardsAreEarned {
+  margin: 0;
+}
+.aWeb3EducationalContainer {
+  position: absolute;
+  top: -296px;
+  left: calc(50% - 729px);
+  font-size: var(--font-size-17xl);
+  line-height: 50px;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+  width: 1458px;
+  z-index: 2;
+}
+.subtractIcon,
+.subtractIcon1 {
+  position: absolute;
+  width: 100.4px;
+  height: 543.4px;
+  object-fit: contain;
+  z-index: 2;
+  top: 0;
+}
+.whyNow {
+  margin: 0;
+  top: 212px;
+  left: calc(50% - 672px);
+  font-size: var(--font-size-71xl);
+  line-height: 100px;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 525px;
+}
+.attentionIsFast,
+.whoAreWe,
+.whyNow {
+  position: absolute;
+  display: inline-block;
+  z-index: 2;
+}
+.whoAreWe {
+  margin: 0;
+  top: 496px;
+  left: calc(50% + 175px);
+  font-size: var(--font-size-71xl);
+  line-height: 100px;
+  font-weight: 700;
+  font-family: inherit;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  width: 448px;
+}
+.attentionIsFast {
+  top: 344px;
+  left: 192px;
+  line-height: 50px;
+  font-weight: 500;
+  text-align: justify;
+  width: 515px;
+}
+.communityManagers,
+.eventOrganizers,
+.web3Enthusiast {
+  margin: 0;
+}
+.automatedIncentivizedFeature,
+.eventOrganizersWeb3Container {
+  position: absolute;
+  top: 739px;
+  left: calc(50% + 255px);
+  line-height: 70px;
+  font-weight: 500;
+  text-align: justify;
+  display: inline-block;
+  width: 417px;
+  z-index: 2;
+}
+.automatedIncentivizedFeature {
+  top: 2022px;
+  left: calc(50% - 730px);
+  line-height: 40px;
+  width: 370px;
+}
+.content3,
+.content4,
+.content5 {
+  position: absolute;
+  top: 754.03px;
+  left: 1080.2px;
+  background: linear-gradient(90deg, #52ff00, #bdf791);
+  width: 27.3px;
+  height: 27.3px;
+  transform: rotate(47.8deg);
+  transform-origin: 0 0;
+  z-index: 2;
+}
+.content4,
+.content5 {
+  top: 826.03px;
+}
+.content5 {
+  top: 898.03px;
+}
+.intuitiveDesignTailored,
+.quizTemplatesDedicated {
+  position: absolute;
+  top: 1982px;
+  left: calc(50% - 192px);
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+  width: 372px;
+  z-index: 2;
+}
+.intuitiveDesignTailored {
+  top: 1942px;
+  left: calc(50% + 310px);
+  width: 458px;
+}
+.team,
+.thrivingYoungProfessionals {
+  position: absolute;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  z-index: 2;
+}
+.team {
+  top: 2561px;
+  left: calc(50% - 573px);
+  font-size: var(--font-size-381xl);
+  line-height: 150px;
+  font-weight: 700;
+  color: var(--color-forestgreen);
+  text-align: center;
+  width: 1155px;
+  height: 150px;
+}
+.thrivingYoungProfessionals {
+  top: 2820px;
+  left: calc(50% - 560px);
+  font-size: var(--font-size-17xl);
+  line-height: 50px;
+  font-weight: 500;
+  color: var(--white);
+  text-align: left;
+  width: 1129px;
+}
+.profileShapeIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.vectorIcon {
+  position: absolute;
+  top: 43px;
+  left: 461.7px;
+  width: 21px;
+  height: 21px;
+  z-index: 3;
+}
+.developer {
+  align-self: stretch;
+  height: 590px;
+  position: relative;
+}
+.fullStackDeveloper {
+  height: 50px;
+  width: 388px;
+  position: absolute;
+  margin: 0 !important;
+  right: -8px;
+  bottom: -37px;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+}
+.onyeleUdoka {
+  height: 100px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  line-height: 100px;
+  display: inline-block;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.developerInfo,
+.developerParent {
+  width: 394px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.developerParent {
+  position: absolute;
+  top: 3172px;
+  left: 1124px;
+  width: 523px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-18xl);
+  z-index: 2;
+}
+.leadShapeChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.leadIcon {
+  position: absolute;
+  top: 43px;
+  left: 454px;
+  width: 21px;
+  height: 21px;
+  z-index: 3;
+}
+.leadShape {
+  height: 590px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.leadVisual {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.teamLead {
+  height: 50px;
+  width: 253px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -37px;
+  left: 0;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+}
+.udokaAm {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  line-height: 100px;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  z-index: 1;
+}
+.leadDetails,
+.leadVisualParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.leadDetails {
+  width: 303px;
+  height: 100px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  position: relative;
+}
+.leadVisualParent {
+  position: absolute;
+  top: 3172px;
+  left: 69px;
+  width: 535.7px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-18xl);
+  gap: 18px;
+  max-width: 100%;
+  z-index: 2;
+}
+.adigweVisualChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.vectorIcon1 {
+  position: absolute;
+  top: 55px;
+  left: 456px;
+  width: 21px;
+  height: 21px;
+  z-index: 3;
+}
+.adigweVisual {
+  align-self: stretch;
+  height: 590px;
+  position: relative;
+}
+.timAdigwe {
+  width: 321px;
+  height: 100px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 37px;
+  left: 0;
+  line-height: 100px;
+  display: inline-block;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 1;
+}
+.smartContractDeveloper {
+  height: 50px;
+  flex: 1;
+  position: relative;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.adigweRole,
+.adigweVisualParent {
+  width: 497px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 3px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+}
+.adigweVisualParent {
+  position: absolute;
+  top: 4099px;
+  left: 596px;
+  width: 531.7px;
+  flex-direction: column;
+  padding: 0 0 0 9px;
+  gap: 108px;
+  z-index: 2;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.codexShapeChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.codexIcon {
+  position: absolute;
+  top: 55px;
+  left: 454px;
+  width: 21px;
+  height: 21px;
+  z-index: 4;
+}
+.codexShape {
+  height: 590px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.codexVisual {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.francisCodex,
+.frontendDeveloper {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.francisCodex {
+  width: 367px;
+  height: 100px;
+  line-height: 100px;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.frontendDeveloper {
+  height: 50px;
+  flex: 1;
+  line-height: 50px;
+  font-weight: 500;
+}
+.codexDetails,
+.codexRole,
+.codexVisualParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.codexRole {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+}
+.codexDetails,
+.codexVisualParent {
+  flex-direction: column;
+}
+.codexDetails {
+  width: 415px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.codexVisualParent {
+  position: absolute;
+  top: 4099px;
+  left: 68px;
+  width: 536px;
+  gap: 21px;
+  z-index: 3;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.enduranceVisualChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.enduranceIcon {
+  position: absolute;
+  top: 43px;
+  left: 460px;
+  width: 21px;
+  height: 21px;
+  z-index: 4;
+}
+.enduranceVisual {
+  align-self: stretch;
+  height: 590px;
+  position: relative;
+}
+.kelechiEndurance {
+  width: 481px;
+  height: 100px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 37px;
+  left: 0;
+  line-height: 100px;
+  display: inline-block;
+  background: linear-gradient(180deg, #fff, #1daa45);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 1;
+}
+.productDesigner {
+  height: 50px;
+  flex: 1;
+  position: relative;
+  line-height: 50px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.enduranceRole,
+.enduranceVisualParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.enduranceRole {
+  width: 398px;
+  flex-direction: row;
+  padding: 0 5px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+}
+.enduranceVisualParent {
+  position: absolute;
+  top: 3172px;
+  left: 601px;
+  width: 523px;
+  flex-direction: column;
+  gap: 93px;
+  z-index: 3;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.desktop {
+  width: 100%;
+  height: 1162px;
+  position: relative;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #013403,
+    #008928 67.15%,
+    #01410a 99.17%
+  );
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--white);
+  font-family: var(--font-montserrat);
+}
+@media screen and (max-width: 900px) {
+  .connectEngageEarn {
+    font-size: var(--font-size-81xl);
+    line-height: 132px;
+  }
+  .conquerQuizzesExpand {
+    font-size: var(--font-size-19xl);
+    line-height: 56px;
+  }
+  .b,
+  .b1,
+  .empty {
+    font-size: var(--font-size-23xl);
+    line-height: 80px;
+  }
+  .b,
+  .b1 {
+    line-height: 65px;
+  }
+  .about {
+    font-size: var(--font-size-141xl);
+    line-height: 90px;
+  }
+  .incentivisedQuizDapp,
+  .transformingCommunityEngagem {
+    font-size: var(--font-size-26xl);
+    line-height: 60px;
+  }
+  .aWeb3EducationalContainer {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .whoAreWe,
+  .whyNow {
+    font-size: var(--font-size-26xl);
+    line-height: 60px;
+  }
+  .attentionIsFast,
+  .eventOrganizersWeb3Container {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .eventOrganizersWeb3Container {
+    line-height: 56px;
+  }
+  .automatedIncentivizedFeature,
+  .intuitiveDesignTailored,
+  .quizTemplatesDedicated {
+    font-size: var(--font-size-10xl);
+    line-height: 32px;
+  }
+  .team {
+    font-size: var(--font-size-141xl);
+    line-height: 90px;
+  }
+  .fullStackDeveloper,
+  .thrivingYoungProfessionals {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .onyeleUdoka {
+    font-size: var(--font-size-19xl);
+    line-height: 80px;
+  }
+  .teamLead {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .timAdigwe,
+  .udokaAm {
+    font-size: var(--font-size-19xl);
+    line-height: 80px;
+  }
+  .smartContractDeveloper {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .francisCodex {
+    font-size: var(--font-size-19xl);
+    line-height: 80px;
+  }
+  .frontendDeveloper {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .kelechiEndurance {
+    font-size: var(--font-size-19xl);
+    line-height: 80px;
+  }
+  .productDesigner {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .connectEngageEarn {
+    font-size: 62px;
+    line-height: 88px;
+  }
+  .conquerQuizzesExpand {
+    font-size: var(--font-size-10xl);
+    line-height: 42px;
+  }
+  .b,
+  .b1,
+  .empty {
+    font-size: var(--font-size-12xl);
+    line-height: 60px;
+  }
+  .b,
+  .b1 {
+    line-height: 49px;
+  }
+  .about {
+    font-size: var(--font-size-81xl);
+    line-height: 60px;
+  }
+  .incentivisedQuizDapp,
+  .transformingCommunityEngagem {
+    font-size: var(--font-size-8xl);
+    line-height: 40px;
+  }
+  .aWeb3EducationalContainer {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .whoAreWe,
+  .whyNow {
+    font-size: var(--font-size-8xl);
+    line-height: 40px;
+  }
+  .attentionIsFast,
+  .eventOrganizersWeb3Container {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .eventOrganizersWeb3Container {
+    line-height: 42px;
+  }
+  .automatedIncentivizedFeature,
+  .intuitiveDesignTailored,
+  .quizTemplatesDedicated {
+    font-size: var(--font-size-3xl);
+    line-height: 24px;
+  }
+  .team {
+    font-size: var(--font-size-81xl);
+    line-height: 60px;
+  }
+  .fullStackDeveloper,
+  .thrivingYoungProfessionals {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .onyeleUdoka {
+    font-size: var(--font-size-10xl);
+    line-height: 60px;
+  }
+  .teamLead {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .timAdigwe,
+  .udokaAm {
+    font-size: var(--font-size-10xl);
+    line-height: 60px;
+  }
+  .smartContractDeveloper {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .francisCodex {
+    font-size: var(--font-size-10xl);
+    line-height: 60px;
+  }
+  .frontendDeveloper {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .kelechiEndurance {
+    font-size: var(--font-size-10xl);
+    line-height: 60px;
+  }
+  .productDesigner {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .desktop {
+    height: auto;
+    min-height: 1162;
+  }
+}
